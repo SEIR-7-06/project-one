@@ -15,7 +15,7 @@ You will be working **in pairs (2 developers)** for this first project. Show us 
 ## CORE REQUIREMENTS
 Make sure to do all of the following with your app.
 
-* **Express API** Build an Express Application that has both HTML and JSON endpoints.
+* **Express APP** Build an Express Application that renders HTML pages from EJS Templates.
 * **RESTful Routes** Design your CRUD routes using the [REST](https://git.generalassemb.ly/sf-sei-1/express-dynamic-routes#restful-routing-preview) convention.
 * **AJAX** Leverage AJAX to fetch JSON data from the backend.
 * **jQuery** Use jQuery to add interactivity and render data on the client-side.  
@@ -96,23 +96,7 @@ We will hold 1:1s throughout the week. We will also do mini lessons on certain t
 ## Teams
 
 <details><summary><h3>Happy Coding :)</h3></summary>
-  <ul>
-   <li>Chase Sheaff, Matt Costa</li>
-   <li>Timothy Allgood, Dmitriy Zagoruyko</li>
-   <li>Tony Yu, Lucian Nicolescu</li>
-   <li>Kaila Hobbs, Art K</li>
-   <li>Melisa Larson, Jimmy Spann</li>
-   <li>Roberto Borberg, Brendan Shultz</li>
-   <li>Brian Sanchez, Rommel Aquino</li>
-   <li>Sky McMahon, Derek Oshita</li>
-   <li>Timothy (Tim) Moy, Sebastian Lee</li>
-   <li>Will Adams, Lora Paine</li>
-   <li>Leah Davis, Stephen Smith</li>
-   <li>Ally Pittman, Nate Daniels</li>
-   <li>Zach Milan, Nathan Harris</li>
-   <li>Sabantu Yusuf, Henry McGehee</li>
-   <li>Natalie Smyth, Dillan Roby</li>
- </ul>
+  <ul></ul>
 </details>
 
 
