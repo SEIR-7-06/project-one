@@ -93,6 +93,8 @@ We will hold 1:1s throughout the week. We will also do mini lessons on certain t
 * Please set your Text Editor font to at least 20.0 pixels.
 * And speak up!
 
+## Teams
+
 <details><summary><h3>Happy Coding :)</h3></summary>
   <ul>
    <li>Chase Sheaff, Matt Costa</li>
