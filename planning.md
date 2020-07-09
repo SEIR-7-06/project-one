@@ -138,11 +138,11 @@ Outside-in development says you should start with the "outside" of your app - th
 Start with the basics of your view:
 
 * [ ] An `index.html` file with static data directly in the file.
-* [ ] Create a Handlebars client-side template based on the HTML structure.
+* [ ] Create an EJS client-side template based on the HTML structure.
 * [ ] Use the template to display dynamic data from a temporary array on the client-side.
 * [ ] Run `npm init` to set up your Node/Express app.
 * [ ] Install necessary node modules, and set up boilerplate Express app.
-* [ ] Move the dynamic data from the client-side to a temporary array on the server, and set up a `GET` request to respond with the data.
+* [ ] Test your ruoutes and views with a temporary array on the server, and set up a `GET` request to respond with the data.
 * [ ] Set up MongoDB/Mongoose, and move the data to your database.
 
 Once you have an index page populated with data from the database, you can move on to other views or features. Your data is already in the database, but try to follow the outside-in process to:
