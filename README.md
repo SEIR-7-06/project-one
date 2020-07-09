@@ -53,12 +53,12 @@ If you want to push yourself and learn something new, optionally consider doing 
 
 ## TIMELINE
 
-> DO NOT START CODING UNTIL YOUR PROJECT IS APPROVED. CONFIRM THAT YOU ARE APPROVED ON THIS SPREADSHEET: [PROJECT APPROVAL SPREADSHEET](https://docs.google.com/spreadsheets/d/1ZZ14IalbihYiT0U8EjroalmjmN08DhVsE5oiEAUuiIY/edit#gid=0).
+> DO NOT START CODING UNTIL YOUR PROJECT IS APPROVED. CONFIRM THAT YOU ARE APPROVED ON THIS SPREADSHEET: [PROJECT APPROVAL SPREADSHEET](https://docs.google.com/spreadsheets/d/1crJv-dJErVs5Siq0Vgpyf7noSs8QZHDpESAnklef7aE/edit?usp=sharing).
 
 
-* **Monday, Jan 27th** - Plan your application. Before you begin work on your project, the [planning deliverables](./planning.md) must be checked off with an instructor! This will happen after the Collab. **Thursday, Jan 30th**
-* **Wednesday, Feb 4th @ 4:00 PM** - Feature Freeze! Deploy your code to Heroku, and start polishing existing features. Finalize your README.md and prepare for presentations.
-* **Thursday, Feb 5th** - Project due and presentations!
+* **Thursday, July 9th** - Plan your application. Before you begin work on your project, the [planning deliverables](./planning.md) must be checked off with an instructor!
+* **Thursday, July 16th @ 4:00 PM** - Feature Freeze! Deploy your code to Heroku, and start polishing existing features. Finalize your README.md and prepare for presentations.
+* **Friday, July 17h** - Project due and presentations!
 
 ## WHAT WE ARE LOOKING FOR
 
@@ -72,8 +72,6 @@ If you want to push yourself and learn something new, optionally consider doing 
 * Appropriately commented
   - use comments to plan, but remove the unnecessary comments for your professional portfolio
   - prefer a well-named variable or function to a comment
-
-See the [feedback document](./feedback.md) for the criteria on which your project will be evaluated.
 
 ## ACCESS TO INSTRUCTORS
 We will hold 1:1s throughout the week. We will also do mini lessons on certain topics if we notice that several people are running into the same issues.
@@ -97,7 +95,21 @@ We will hold 1:1s throughout the week. We will also do mini lessons on certain t
 
 <details><summary><h3>Happy Coding :)</h3></summary>
   <ul>
-  
+   <li>Chase Sheaff, Matt Costa</li>
+   <li>Timothy Allgood, Dmitriy Zagoruyko</li>
+   <li>Tony Yu, Lucian Nicolescu</li>
+   <li>Kaila Hobbs, Art K</li>
+   <li>Melisa Larson, Jimmy Spann</li>
+   <li>Roberto Borberg, Brendan Shultz</li>
+   <li>Brian Sanchez, Rommel Aquino</li>
+   <li>Sky McMahon, Derek Oshita</li>
+   <li>Timothy (Tim) Moy, Sebastian Lee</li>
+   <li>Will Adams, Lora Paine</li>
+   <li>Leah Davis, Stephen Smith</li>
+   <li>Ally Pittman, Nate Daniels</li>
+   <li>Zach Milan, Nathan Harris</li>
+   <li>Sabantu Yusuf, Henry McGehee</li>
+   <li>Natalie Smyth, Dillan Roby</li>
  </ul>
 </details>
 
