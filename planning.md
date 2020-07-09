@@ -12,7 +12,7 @@ Examples of applications that do one thing well:
 * Facebook Messenger - communication between individuals or groups
 * <a href="http://www.questioncookie.com" target="_blank">Question Cookie</a> - fast voting moderation
 
-Check out these [Project 1 examples from past cohorts](./past-project-examples.md)!
+Check out these [Project 1 examples from SEI-5](https://ezziagheith.github.io/gift-sei5/project1.html)!
 
 ## Project Planning Deliverables
 
