@@ -2,7 +2,7 @@
 
 ## DESCRIPTION
 
-It's time to put everything that you've learned in the past month together! For your first project you will build a full stack web application using jQuery and AJAX, Express, Node.js, Mongoose, and MongoDB.
+It's time to put everything that you've learned in the past month together! For your first project you will build a full stack web application using Express, Node.js, Mongoose, and MongoDB.
 
 The objective of this project is to:
 
