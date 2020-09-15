@@ -148,6 +148,5 @@ Start with the basics of your view:
 Once you have an index page populated with data from the database, you can move on to other views or features. Your data is already in the database, but try to follow the outside-in process to:
 
 * [ ] Make a button that allows you to edit a specific data item.
-* [ ] Make an AJAX call to a `PUT` route on your server that updates individual data items.
 * [ ] Create the `PUT` route on your server that updates individual items in the database.
 
