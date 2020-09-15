@@ -49,14 +49,6 @@ If you want to push yourself and learn something new, optionally consider doing 
 * **Sass** Use a CSS pre-compiler to write more imperative CSS.
 * **Whatever else inspires you!**
 
-## TIMELINE
-
-> DO NOT START CODING UNTIL YOUR PROJECT IS APPROVED. CONFIRM THAT YOU ARE APPROVED ON THIS SPREADSHEET: [PROJECT APPROVAL SPREADSHEET](https://docs.google.com/spreadsheets/d/1crJv-dJErVs5Siq0Vgpyf7noSs8QZHDpESAnklef7aE/edit?usp=sharing).
-
-
-* **Thursday, July 9th** - Plan your application. Before you begin work on your project, the [planning deliverables](./planning.md) must be checked off with an instructor!
-* **Thursday, July 16th @ 4:00 PM** - Feature Freeze! Deploy your code to Heroku, and start polishing existing features. Finalize your README.md and prepare for presentations.
-* **Friday, July 17h** - Project due and presentations!
 
 ## WHAT WE ARE LOOKING FOR
 
@@ -91,11 +83,6 @@ We will hold 1:1s throughout the week. We will also do mini lessons on certain t
 * Please set your Text Editor font to at least 20.0 pixels.
 * And speak up!
 
-## Teams
-
-<details><summary><h3>Happy Coding :)</h3></summary>
-  <ul></ul>
-</details>
 
 
 
