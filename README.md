@@ -2,7 +2,7 @@
 
 ## DESCRIPTION
 
-It's time to put everything that you've learned in the past month together! For your first project you will build a full stack web application using Express, Node.js, Mongoose, and MongoDB.
+It's time to put everything that you've learned in the past month together! For your first project you will build a full stack web application using Express, Node, EJS, Mongoose, and MongoDB.
 
 The objective of this project is to:
 
@@ -28,11 +28,12 @@ Make sure to do all of the following with your app.
 ## PLANNING DELIVERABLES
 
 See the [planning deliverables](./planning.md) document for more information on the planning steps you should take.
-  * A clearly defined **Minimum Viable Product ([MVP](http://en.wikipedia.org/wiki/Minimum_viable_product)) Scope**. What can you reasonably accomplish in a week?
+  * A clearly defined **Minimum Viable Product ([MVP](http://en.wikipedia.org/wiki/Minimum_viable_product)) Scope**. What can you reasonably accomplish in a week? Anything outside of MVP can be added to your planning materials as Stretch Goals.
   * **Wireframes** for _every_ page. These don't have to be pretty; just sketch what the page will include.
   * **User Stories** (divided into sprints) - we recommend [Trello](https://trello.com/) for project tracking.
   * **Database Models and ERD** Make plans for each resource.  List the attributes you'll include in your schemas and what type of data each attribute will be. Draw an [Entity Relationship Diagram](https://www.google.com/search?tbm=isch&q=database%20table%20relationships%20drawing) to illustrate the relationship(s) between models, and note whether you plan to reference or embed related data.
   * A **Feasibility Check** for any bonus feature you'd like to complete.
+* **[Example Readmes](https://git.generalassemb.ly/r-sei-12/Project_Planning_Examples)** _(a great reference for planning materials)_
 
 
 Once your project has been approved, create a **GitHub Repo** for your project and [add your teaching team as collaborators](https://help.github.com/articles/adding-collaborators-to-a-personal-repository/).
@@ -49,6 +50,14 @@ If you want to push yourself and learn something new, optionally consider doing 
 * **Sass** Use a CSS pre-compiler to write more imperative CSS.
 * **Whatever else inspires you!**
 
+## TIMELINE
+
+> DO NOT START CODING UNTIL YOUR PROJECT IS APPROVED. CONFIRM THAT YOU ARE APPROVED ON THIS SPREADSHEET: [PROJECT APPROVAL SPREADSHEET](https://docs.google.com/spreadsheets/d/1ZRzvFLUi_jPLuobTIrUZXD91S76M4kM5LvjbmfCIaqs).
+
+
+* **Thursday, Oct 8th** - Plan your application. Before you begin work on your project, the [planning deliverables](./planning.md) must be checked off with an instructor!
+* **Thursday, Oct 15th @ 4:00 PM** - Feature Freeze! Deploy your code to Heroku, and start polishing existing features. Finalize your README.md and prepare for presentations.
+* **Friday, Oct 16h** - Project due and presentations!
 
 ## WHAT WE ARE LOOKING FOR
 
@@ -83,6 +92,24 @@ We will hold 1:1s throughout the week. We will also do mini lessons on certain t
 * Please set your Text Editor font to at least 20.0 pixels.
 * And speak up!
 
+## Teams
+
+<details>
+  <summary><h3>Happy Coding :)</h3></summary>
+  <ul>
+   <li>Cass, Jessica</li>
+   <li>Vishwa, Brittany</li>
+   <li>Andre, Nic K</li>
+   <li>Joey, Matt</li>
+   <li>Joseph, Scott</li>
+   <li>Luvy, Josh W</li>
+   <li>Alex, Tom</li>
+   <li>Abe, Sennad</li>
+   <li>Joshua J, Joal</li>
+   <li>Nick G, Khanon</li>
+   <li>Kenny, Mohamed</li>
+  </ul>
+</details>
 
 
 
