@@ -23,7 +23,7 @@ Make sure to do all of the following with your app.
 * **Code Style** Write professional-looking code. Follow the [Airbnb Javascript Styleguide](https://github.com/airbnb/javascript).
 * **Visual Design** Use Flexbox, CSS Grid, Bootstrap, Materialize, Foundation, Skeleton, or another CSS framework to make your front-end snazzy. First impressions matter!
 * **Heroku** Deploy your app to Heroku **(we will cover this together)**.
-* **Documentation** Write a README.md that would make an employer excited to hire you. Screenshots are encouraged. See the [example readme](./example-readme.md) for a suggested structure.
+* **Documentation** Write a README.md that would make an employer excited to hire you. Screenshots are encouraged. See the [example readme](./example-readme.md) for a suggested structure, or these examples here: [more readme files](https://git.generalassemb.ly/wc-seir-1207/Project_Planning_Examples).
 
 ## PLANNING DELIVERABLES
 
@@ -33,7 +33,6 @@ See the [planning deliverables](./planning.md) document for more information on 
   * **User Stories** (divided into sprints) - we recommend [Trello](https://trello.com/) for project tracking.
   * **Database Models and ERD** Make plans for each resource.  List the attributes you'll include in your schemas and what type of data each attribute will be. Draw an [Entity Relationship Diagram](https://www.google.com/search?tbm=isch&q=database%20table%20relationships%20drawing) to illustrate the relationship(s) between models, and note whether you plan to reference or embed related data.
   * A **Feasibility Check** for any bonus feature you'd like to complete.
-* **[Example Readmes](https://git.generalassemb.ly/wc-seir-1207/Project_Planning_Examples)** _(a great reference for planning materials)_
 
 
 Once your project has been approved, create a **GitHub Repo** for your project and [add your teaching team as collaborators](https://help.github.com/articles/adding-collaborators-to-a-personal-repository/).
