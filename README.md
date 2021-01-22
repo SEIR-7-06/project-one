@@ -83,8 +83,8 @@ We will hold 1:1s throughout the week. We will also do mini lessons on certain t
 * A **10 minute presentation**, in the company of friends, illustrating:
     - Triumphs
     - Challenges
-    - Words of Wisdom
     - And _3_ lines(!) of code you want to share with your classmates, copied into a seperate document.
+    - Words of Wisdom
 
 ## Presentation Tips
 * Please zoom your browser window to 150%.
