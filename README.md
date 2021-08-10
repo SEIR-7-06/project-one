@@ -28,7 +28,7 @@ Make sure to do all of the following with your app.
 
 See the [planning deliverables](./planning.md) document for more information on the planning steps you should take.
 
-Before you begin coding you will need to have your planning deliverables approved by an instructor.
+**Before you begin coding you will need to have your planning deliverables approved by an instructor.**
 
 These include
   * **MVP** - Put in writing a clearly defined **Minimum Viable Product ([MVP](http://en.wikipedia.org/wiki/Minimum_viable_product)) Scope**. What can you reasonably accomplish in a week? Anything outside of MVP can be added to your planning materials as Stretch Goals.
@@ -53,10 +53,6 @@ If you want to push yourself and learn something new, optionally consider doing 
 * **Authentication** Enable users to store account information and signup, login, and logout.
 * **Sass** Use a CSS pre-compiler to write more imperative CSS.
 * **Whatever else inspires you!**
-
-## TIMELINE
-
-> DO NOT START CODING UNTIL YOUR PROJECT IS APPROVED. CONFIRM THAT YOU ARE APPROVED ON THIS SPREADSHEET
 
 ## WHAT WE ARE LOOKING FOR
 
