@@ -87,7 +87,7 @@ If you want to push yourself and learn something new, optionally consider doing 
 * Please set your Text Editor font to at least 20.0 pixels.
 * And speak up!
 
-## Teams
+<!-- ## Teams
 
 <details>
   <summary><h3>Happy Coding :)</h3></summary>
@@ -99,4 +99,4 @@ If you want to push yourself and learn something new, optionally consider doing 
    <li>Jack Mayer, Erin Ogden</li>
    <li>Neeraj Kane, Marshawn Davidson, Marshall Watrous</li>
   </ul>
-</details>
+</details> -->
