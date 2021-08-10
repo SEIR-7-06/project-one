@@ -38,7 +38,7 @@ These include
   * A **Feasibility Check** for any bonus feature you'd like to complete.
 
 
-Once your project has been approved, create a **GitHub Repo** for your project and [add your teaching team as collaborators](https://help.github.com/articles/adding-collaborators-to-a-personal-repository/).
+Once your project has been approved, create a **GitHub Repo** for your project and [add your team as collaborators](https://help.github.com/articles/adding-collaborators-to-a-personal-repository/).
 
 ## BONUS IDEAS  
 If you want to push yourself and learn something new, optionally consider doing some of the following with your app, but *please talk to an instructor* beforehand:
