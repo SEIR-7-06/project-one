@@ -71,6 +71,8 @@ If you want to push yourself and learn something new, optionally consider doing 
 * Completion of the **core requirements**
 * A link to your **source code on GitHub**
 * A `README.md` file that serves as your **project documentation** (this is important!)
+    - [Exapmle Readme](./example-readme.md)
+    - [More Example Readmes](https://git.generalassemb.ly/wc-seir-1207/Project_Planning_Examples)
 * A **10 minute presentation**, in the company of friends, illustrating:
     - Triumphs
     - Challenges
