@@ -51,7 +51,6 @@ If you want to push yourself and learn something new, optionally consider doing 
 * **Back-End Data Validation** Validate data on the back-end using mongoose's [built-in validations](http://mongoosejs.com/docs/validation.html#built-in-validators), or make your own custom validation.
 * **Model Methods** Level up your models by adding a method to one of your schemas.  For example, a person schema with `firstName` and `lastName` can have a `fullName` method (see mongoose docs on [instance methods](http://mongoosejs.com/docs/guide.html#methods) and [static methods](http://mongoosejs.com/docs/guide.html#statics)).
 * **Authentication** Enable users to store account information and signup, login, and logout.
-* **Sass** Use a CSS pre-compiler to write more imperative CSS.
 * **Whatever else inspires you!**
 
 ## WHAT WE ARE LOOKING FOR
