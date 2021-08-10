@@ -86,18 +86,17 @@ If you want to push yourself and learn something new, optionally consider doing 
 * Please zoom your browser window to 150%.
 * Please set your Text Editor font to at least 20.0 pixels.
 * And speak up!
-<!-- 
+
 ## Teams
 
 <details>
   <summary><h3>Happy Coding :)</h3></summary>
   <ul>
    <li>DK Nam, Brooke Calhoun</li>
-   <li>Gonzalo Meza-Cabrera, Marshall Watrous</li>
-   <li>Jack Mayer, Erin Ogden</li>
-   <li>Cody Tsao, Greg Danko</li>
    <li>Satya Sette, Nicole Ndeto</li>
-   <li>Neeraj Kane, Marshawn Davidson</li>
+   <li>Cody Tsao, Greg Danko, Gonzalo Meza-Cabrera</li>
    <li>Stephany Burden, Megan Waltman</li>
+   <li>Jack Mayer, Erin Ogden</li>
+   <li>Neeraj Kane, Marshawn Davidson, Marshall Watrous</li>
   </ul>
-</details> -->
+</details>
