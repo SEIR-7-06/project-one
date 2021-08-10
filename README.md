@@ -10,7 +10,7 @@ The objective of this project is to:
 * Demonstrate an understanding of the topics covered during this course so far.
 * Build a polished, published website you can share in your portfolio.  
 
-You will be working **in pairs (2 developers)** for this first project. Show us what you've got!
+You will be working **in groups of 2 or 3** for this first project. Show us what you've got!
 
 ## CORE REQUIREMENTS
 Make sure to do all of the following with your app.
@@ -87,7 +87,7 @@ If you want to push yourself and learn something new, optionally consider doing 
 * Please set your Text Editor font to at least 20.0 pixels.
 * And speak up!
 
-<!-- ## Teams
+## Teams
 
 <details>
   <summary><h3>Happy Coding :)</h3></summary>
@@ -99,4 +99,4 @@ If you want to push yourself and learn something new, optionally consider doing 
    <li>Jack Mayer, Erin Ogden</li>
    <li>Neeraj Kane, Marshawn Davidson, Marshall Watrous</li>
   </ul>
-</details> -->
+</details>
